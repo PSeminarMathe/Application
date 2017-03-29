@@ -116,7 +116,7 @@ public class Rechentrainer extends JFrame {
 		
 		JMenuItem miInformationen = new JMenuItem("Informationen");
 		miInformationen.addActionListener(e -> {
-			JOptionPane.showMessageDialog(this, "Coded by: " + Rechentrainer.AUTHOR + "\n" + "Version: " + Rechentrainer.VERSION);
+			JOptionPane.showMessageDialog(this, "Coded by: " + Rechentrainer.AUTHOR + "\n" + "Version: " + Rechentrainer.VERSION, "Information", -1);
 		});
 		menu1.add(miInformationen);
 	}
