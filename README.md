@@ -22,4 +22,8 @@ Official Website: [Matheguru](http://matheguru.tk/)
   - Programmierung einer Klasse zur Speicherung der Aufgaben
   - Programmierung einer KI, die den Nutzer gezielt fördert :+1:
   - portabel für Windows, Linux und Mac OSX 
-  
+- #### TODO
+  - [ ] Ladescreen
+  - [ ] Eingangsdialog / Name
+  - [ ] Highscoreliste + Anzeige im GUI
+  - [ ] Termgenerator
