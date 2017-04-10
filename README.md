@@ -17,6 +17,6 @@ A desktop application created in order to assist fith-graders to learn the basic
   - Entwurf der grafischen Oberfläche (GUI)
   - Programmierung eines generischen Aufgabenerstellers
   - Programmierung einer Klasse zur Speicherung der Aufgaben
-  - Programmierung einer KI, die den Nutzer gezielt fördert
+  - Programmierung einer KI, die den Nutzer gezielt fördert :+1:
   - portabel für Windows, Linux und Mac OSX 
   
