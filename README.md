@@ -18,4 +18,5 @@ A desktop application created in order to assist fith-graders to learn the basic
   - Programmierung eines generischen Aufgabenerstellers
   - Programmierung einer Klasse zur Speicherung der Aufgaben
   - Programmierung einer KI, die den Nutzer gezielt fördert
+  - portabel für Windows, Linux und Mac OSX 
   
