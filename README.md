@@ -1,7 +1,7 @@
 # Matheguru
 A desktop application created in order to assist fith-graders to learn the basics of multiplication.
 
-Official Website: [Matheguru](http://www.matheguru.tk)
+Official Website: [Matheguru](http://matheguru.tk/)
 
 ## Log
 - [x] Wahl der Entwicklungsumgebung
@@ -12,7 +12,7 @@ Official Website: [Matheguru](http://www.matheguru.tk)
   - Zugriff und Bearbeitung des Projekts erleichtert
 - [x] Erstellung der Website
   - Wahl des Webhosters -> [bplaced](http://www.bplaced.net/) (kostenloser Webspace)
-  - Registrierung der Domain [matheguru.tk](http://www.matheguru.tk) bei Freenom (kostenloser DNS Service)
+  - Registrierung der Domain [matheguru.tk](http://matheguru.tk/) bei Freenom (kostenloser DNS Service)
   - Eigenständige Erstellung der Website mithilfe von HTML und CSS (ohne jegliche Frameworks)
   - Upload der Seite als auch des Programms auf matheguru.tk
 - #### Features
