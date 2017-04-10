@@ -15,6 +15,7 @@ Official Website: [Matheguru](http://matheguru.tk/)
   - Registrierung der Domain [matheguru.tk](http://matheguru.tk/) bei Freenom (kostenloser DNS Service)
   - Eigenständige Erstellung der Website mithilfe von HTML und CSS (ohne jegliche Frameworks)
   - Upload der Seite als auch des Programms auf matheguru.tk
+  - Änerung des Designs und Behebung kleinerer Fehler
 - #### Features
   - Entwurf der grafischen Oberfläche (GUI)
   - Programmierung eines generischen Aufgabenerstellers
