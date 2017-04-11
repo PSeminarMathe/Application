@@ -10,7 +10,8 @@ Official Website: [Matheguru](http://matheguru.tk/)
   - einfacher zu verwalten (immer überall auf aktuellstem Stand)
   - mehrere Versionen möglich (damit die Applikation portabel ist)
   - Zugriff und Bearbeitung des Projekts erleichtert
-  - Einfügen eines Protokolls und einem Zeitplan
+  - Einfügen eines Protokolls und eines Zeitplans
+  - Upload verschiedener Releases
 - [x] Erstellung der Website
   - Wahl des Webhosters -> [bplaced](http://www.bplaced.net/) (kostenloser Webspace)
   - Registrierung der Domain [matheguru.tk](http://matheguru.tk/) bei Freenom (kostenloser DNS Service)
