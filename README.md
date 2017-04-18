@@ -29,3 +29,5 @@ Official Website: [Matheguru](http://matheguru.tk/)
   - [ ] Eingangsdialog / Name
   - [ ] Highscoreliste + Anzeige im GUI
   - [ ] Termgenerator
+  - [ ] Hinzufügen zu Google
+  - [ ] To-DO list in Trello
