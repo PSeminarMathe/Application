@@ -31,3 +31,4 @@ Official Website: [Matheguru](http://matheguru.tk/)
   - [ ] Termgenerator
   - [ ] Hinzufügen zu Google
   - [ ] To-DO list in Trello
+  ==> Für eine komplette und aktuelle Liste der geplanten Arbeitsschritte siehe [To-do-Liste auf Trello](https://trello.com/b/rFxNzqG5)
