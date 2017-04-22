@@ -18,6 +18,10 @@ Official Website: [Matheguru](http://matheguru.tk/)
   - Eigenständige Erstellung der Website mithilfe von HTML und CSS (ohne jegliche Frameworks)
   - Upload der Seite als auch des Programms auf matheguru.tk
   - Änerung des Designs und Behebung kleinerer Fehler
+- [x] Erstellung eines Aufgabenmanagers
+  - macht möglich, neben den generisch erzeugten Aufgaben eigene Aufgabendateien zu erzeugen
+  - Mithilfe des Aufgabenmanagers können beliebige Arten von Aufgaben gespeichert werden, so dass eine Fokussierung auf Schwächen oder sogar ein Einsatz von Matheguru für weitere Jahrgangsstufen ermöglicht wird
+  - Zeitaufwand zur Programmierung: ca. 2 Stunden
 - #### Features
   - Entwurf der grafischen Oberfläche (GUI)
   - Programmierung eines generischen Aufgabenerstellers
@@ -30,5 +34,4 @@ Official Website: [Matheguru](http://matheguru.tk/)
   - [ ] Highscoreliste + Anzeige im GUI
   - [ ] Termgenerator
   - [ ] Hinzufügen zu Google
-  - [ ] To-DO list in Trello
   ##### ==> Für eine komplette und aktuelle Liste der geplanten Arbeitsschritte siehe [To-do-Liste auf Trello](https://trello.com/b/rFxNzqG5)
