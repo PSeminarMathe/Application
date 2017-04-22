@@ -21,6 +21,7 @@ Official Website: [Matheguru](http://matheguru.tk/)
 - [x] Erstellung eines Aufgabenmanagers
   - macht möglich, neben den generisch erzeugten Aufgaben eigene Aufgabendateien zu erzeugen
   - Mithilfe des Aufgabenmanagers können beliebige Arten von Aufgaben gespeichert werden, so dass eine Fokussierung auf Schwächen oder sogar ein Einsatz von Matheguru für weitere Jahrgangsstufen ermöglicht wird
+  - auch direkte Editierung der Aufgabendatei gut möglich, da der Aufgabenmanager ordnet die Aufgaben vor dem Speicher mithilfe eines Sortieralgorithmus des Laufzeitverhaltens O(n \* log n), so dass die Aufgabendatei übersichtlich ist
   - Zeitaufwand zur Programmierung: ca. 2 Stunden
 - #### Features
   - Entwurf der grafischen Oberfläche (GUI)
