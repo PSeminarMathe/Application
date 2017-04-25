@@ -17,7 +17,8 @@ Official Website: [Matheguru](http://matheguru.tk/)
   - Registrierung der Domain [matheguru.tk](http://matheguru.tk/) bei Freenom (kostenloser DNS Service)
   - Eigenständige Erstellung der Website mithilfe von HTML und CSS (ohne jegliche Frameworks)
   - Upload der Seite als auch des Programms auf matheguru.tk
-  - Änerung des Designs und Behebung kleinerer Fehler
+  - Änderung des Designs und Behebung kleinerer Fehler
+  - Hinzufügen der Website zu Google
 - [x] Erstellung eines Aufgabenmanagers
   - macht möglich, neben den generisch erzeugten Aufgaben eigene Aufgabendateien zu erzeugen
   - Mithilfe des Aufgabenmanagers können beliebige Arten von Aufgaben gespeichert werden, so dass eine Fokussierung auf Schwächen oder sogar ein Einsatz von Matheguru für weitere Jahrgangsstufen ermöglicht wird
@@ -29,10 +30,12 @@ Official Website: [Matheguru](http://matheguru.tk/)
   - Programmierung einer Klasse zur Speicherung der Aufgaben
   - Programmierung einer KI, die den Nutzer gezielt fördert :+1:
   - portabel für Windows, Linux und Mac OSX 
+  - Ladescreen
+  - Eingangsdialog
 - #### TODO
-  - [ ] Ladescreen
-  - [ ] Eingangsdialog / Name
   - [ ] Highscoreliste + Anzeige im GUI
   - [ ] Termgenerator
-  - [ ] Hinzufügen zu Google
+  - [ ] Einstellungen
+  - [ ] Anleitung zum Spielen
+
   ##### ==> Für eine komplette und aktuelle Liste der geplanten Arbeitsschritte siehe [To-do-Liste auf Trello](https://trello.com/b/rFxNzqG5)
