@@ -20,10 +20,11 @@ Official Website: [Matheguru](http://matheguru.tk/)
   - Änderung des Designs und Behebung kleinerer Fehler <!-- 0,5 Stunden -->
   - Hinzufügen der Website zu Google <!-- 0,45 Stunden -->
 - [x] Erstellung eines Protopyen <!-- 6 Stunden -->
+  - Programmierung eines generischen Aufgabenerstellers
   - Funktionsweise der GUI im Aufgabenmodus
   - Speicherung und Laden von Aufgaben
   - Berechnung von Spielstatistiken
-  - grundlegende KI zur Wahl der Aufgaben je nach Schwierigkeitsgrad
+  - grundlegende KI, die den Nutzer gezielt fördert :+1:
 - [x] Erstellung eines Aufgabenmanagers <!-- 2 Stunden -->
   - macht möglich, neben den generisch erzeugten Aufgaben eigene Aufgabendateien zu erzeugen
   - Mithilfe des Aufgabenmanagers können beliebige Arten von Aufgaben gespeichert werden, so dass eine Fokussierung auf Schwächen oder sogar ein Einsatz von Matheguru für weitere Jahrgangsstufen ermöglicht wird
@@ -31,7 +32,6 @@ Official Website: [Matheguru](http://matheguru.tk/)
   - Zeitaufwand zur Programmierung: ca. 2 Stunden
 - #### Features <!-- des aktuellen Programms: 4 Stunden -->
   - Entwurf der grafischen Oberfläche (GUI)
-  - Programmierung eines generischen Aufgabenerstellers
   - Programmierung einer Klasse zur Speicherung der Aufgaben
   - Programmierung einer KI, die den Nutzer gezielt fördert :+1:
   - portabel für Windows, Linux und Mac OSX 
