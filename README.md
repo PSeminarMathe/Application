@@ -32,10 +32,10 @@ Official Website: [Matheguru](http://matheguru.tk/)
   - portabel für Windows, Linux und Mac OSX 
   - Ladescreen
   - Eingangsdialog
+  - Anleitung zum Spielen
 - #### TODO
-  - [ ] Highscoreliste + Anzeige im GUI
+  - [ ] Punktesystem + Highscoreliste + Anzeige im GUI
   - [ ] Termgenerator
   - [ ] Einstellungen
-  - [ ] Anleitung zum Spielen
 
   ##### ==> Für eine komplette und aktuelle Liste der geplanten Arbeitsschritte siehe [To-do-Liste auf Trello](https://trello.com/b/rFxNzqG5)
