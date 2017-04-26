@@ -1,4 +1,4 @@
-![Matheguru](http://matheguru.tk/matheguru_logo.png) # Matheguru 
+# Matheguru ![Matheguru](http://matheguru.tk/matheguru_logo.png)
 A desktop application created in order to assist fith-graders to learn the basics of multiplication.
 
 Official Website: [Matheguru](http://matheguru.tk/)
