@@ -33,6 +33,7 @@ Official Website: [Matheguru](http://matheguru.tk/)
   - Ladescreen
   - Eingangsdialog
   - Anleitung zum Spielen
+  - Anzeige der von den Fünftklässlern bekannten Zeichen für Multiplikation und Division (anstatt * & /)
 - #### TODO
   - [ ] Punktesystem + Highscoreliste + Anzeige im GUI
   - [ ] Termgenerator
