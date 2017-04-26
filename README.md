@@ -6,25 +6,30 @@ Official Website: [Matheguru](http://matheguru.tk/)
 ## Log
 - [x] Wahl der Entwicklungsumgebung
   - Setup des Projekts in Eclipse
-- [x] Hinzufügen des Projekts zu Github
+- [x] Hinzufügen des Projekts zu Github <!-- 1,5 Stunden -->
   - einfacher zu verwalten (immer überall auf aktuellstem Stand)
   - mehrere Versionen möglich (damit die Applikation portabel ist)
   - Zugriff und Bearbeitung des Projekts erleichtert
   - Einfügen eines Protokolls und eines Zeitplans
   - Upload verschiedener Releases
-- [x] Erstellung der Website
-  - Wahl des Webhosters -> [bplaced](http://www.bplaced.net/) (kostenloser Webspace)
-  - Registrierung der Domain [matheguru.tk](http://matheguru.tk/) bei Freenom (kostenloser DNS Service)
-  - Eigenständige Erstellung der Website mithilfe von HTML und CSS (ohne jegliche Frameworks)
-  - Upload der Seite als auch des Programms auf matheguru.tk
-  - Änderung des Designs und Behebung kleinerer Fehler
-  - Hinzufügen der Website zu Google
-- [x] Erstellung eines Aufgabenmanagers
+- [x] Erstellung der Website <!-- 3 Stunden -->
+  - Wahl des Webhosters -> [bplaced](http://www.bplaced.net/) (kostenloser Webspace) <!-- 0,5 Stunden -->
+  - Registrierung der Domain [matheguru.tk](http://matheguru.tk/) bei Freenom (kostenloser DNS Service) <!-- 0,5 Stunden -->
+  - Eigenständige Erstellung der Website mithilfe von HTML und CSS (ohne jegliche Frameworks) <!-- 1 Stunden -->
+  - Upload der Seite als auch des Programms auf matheguru.tk <!-- 0 Stunden -->
+  - Änderung des Designs und Behebung kleinerer Fehler <!-- 0,5 Stunden -->
+  - Hinzufügen der Website zu Google <!-- 0,45 Stunden -->
+- [x] Erstellung eines Protopyen <!-- 6 Stunden -->
+  - Funktionsweise der GUI im Aufgabenmodus
+  - Speicherung und Laden von Aufgaben
+  - Berechnung von Spielstatistiken
+  - grundlegende KI zur Wahl der Aufgaben je nach Schwierigkeitsgrad
+- [x] Erstellung eines Aufgabenmanagers <!-- 2 Stunden -->
   - macht möglich, neben den generisch erzeugten Aufgaben eigene Aufgabendateien zu erzeugen
   - Mithilfe des Aufgabenmanagers können beliebige Arten von Aufgaben gespeichert werden, so dass eine Fokussierung auf Schwächen oder sogar ein Einsatz von Matheguru für weitere Jahrgangsstufen ermöglicht wird
   - auch direkte Editierung der Aufgabendatei gut möglich, da der Aufgabenmanager ordnet die Aufgaben vor dem Speicher mithilfe eines Sortieralgorithmus des Laufzeitverhaltens O(n \* log n), so dass die Aufgabendatei übersichtlich ist
   - Zeitaufwand zur Programmierung: ca. 2 Stunden
-- #### Features
+- #### Features <!-- des aktuellen Programms: 4 Stunden -->
   - Entwurf der grafischen Oberfläche (GUI)
   - Programmierung eines generischen Aufgabenerstellers
   - Programmierung einer Klasse zur Speicherung der Aufgaben
@@ -36,7 +41,7 @@ Official Website: [Matheguru](http://matheguru.tk/)
   - Anzeige der von den Fünftklässlern bekannten Zeichen für Multiplikation und Division (anstatt * & /)
 - #### TODO
   - [ ] Punktesystem + Highscoreliste + Anzeige im GUI
-  - [ ] Termgenerator
+  - [ ] Termgenerator 
   - [ ] Einstellungen
 
   ##### ==> Für eine komplette und aktuelle Liste der geplanten Arbeitsschritte siehe [To-do-Liste auf Trello](https://trello.com/b/rFxNzqG5)
