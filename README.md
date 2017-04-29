@@ -39,6 +39,9 @@ Official Website: [Matheguru](http://matheguru.tk/)
   - Eingangsdialog
   - Anleitung zum Spielen
   - Anzeige der von den Fünftklässlern bekannten Zeichen für Multiplikation und Division (anstatt * & /)
+  - Anzeige von Statistiken nach Absolvieren einer Runde
+  - Bewertung der Leistung eines Spielers mit Punkten
+  - Zeitbeschränkung beim Spielen
 - #### TODO
   - [ ] Punktesystem + Highscoreliste + Anzeige im GUI
   - [ ] Termgenerator 
