@@ -1,4 +1,4 @@
-# Matheguru ![Matheguru](http://matheguru.tk/matheguru_logo.png)
+# Matheguru ![Matheguru](http://matheguru.tk/matheguru_logo.png) <!-- 1613 Zeilen Code!!! -->
 A desktop application created in order to assist fith-graders to learn the basics of multiplication.
 Mit momentan über 333 Aufgaben! Beliebig erweiterbar!
 
@@ -31,7 +31,7 @@ Official Website: [Matheguru](http://matheguru.tk/)
   - Mithilfe des Aufgabenmanagers können beliebige Arten von Aufgaben gespeichert werden, so dass eine Fokussierung auf Schwächen oder sogar ein Einsatz von Matheguru für weitere Jahrgangsstufen ermöglicht wird
   - auch direkte Editierung der Aufgabendatei gut möglich, da der Aufgabenmanager ordnet die Aufgaben vor dem Speicher mithilfe eines Sortieralgorithmus des Laufzeitverhaltens O(n \* log n), so dass die Aufgabendatei übersichtlich ist
   - Zeitaufwand zur Programmierung: ca. 2 Stunden
-- [x] Eingabe von über 330 Aufgaben mit Lösungen und Schwierigkeitsgrad <!-- 3 Stunden -->
+- [x] Eingabe von über 330 Aufgaben mit Lösungen und Schwierigkeitsgrad als Standardausstattung des Programms (beliebig nach Anforderungen erweiterbar)<!-- 3 Stunden -->
 - #### Features <!-- des aktuellen Programms: 10 Stunden -->
   - Entwurf der grafischen Oberfläche (GUI)
   - Programmierung einer Klasse zur Speicherung der Aufgaben
