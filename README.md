@@ -51,7 +51,7 @@ Official Website: [Matheguru](http://matheguru.tk/)
     - Wahl einer Aufgabendatei
     - Möglichkeit, bei falscher Eingabe Lösung angezeigt zu bekommen
   - automatische Speicherung der Einstellungen
-  - automatisches Laden der neusten Aufgaben über das Internet / Aktualisierung der Applikation
+  - automatisches Laden der neusten Aufgaben über das Internet / Aktualisierung der Applikation -> jedoch auch Offline möglich
 - #### TODO
   - [ ] Termgenerator 
 
