@@ -51,8 +51,10 @@ Official Website: [Matheguru](http://matheguru.tk/)
     - Wahl einer Aufgabendatei
     - Möglichkeit, bei falscher Eingabe Lösung angezeigt zu bekommen
   - automatische Speicherung der Einstellungen
-  - automatisches Laden der neusten Aufgaben über das Internet / Aktualisierung der Applikation -> jedoch auch Offline möglich
+  - automatisches Laden der neusten Aufgaben über das Internet -> jedoch auch Offline möglich
+  - Auto-Updates: Das Programm sucht (falls Internet vorhanden) nach Updates und aktualisiert sich selber -> Software immer auf neustem Stand, ohne sich darum kümmern zu müssen
 - #### TODO
-  - [ ] Termgenerator 
+  - [ ] Termgenerator
+  - [ ] Integration des Matheguru Launchers in Matheguru selbst
 
   ##### ==> Für eine komplette und aktuelle Liste der geplanten Arbeitsschritte siehe [To-do-Liste auf Trello](https://trello.com/b/rFxNzqG5)
