@@ -45,6 +45,7 @@ Official Website: [Matheguru](http://matheguru.tk/)
   - Zeitbeschränkung beim Spielen
   - Punktesystem zur Motivation der Schüler: je nach Schwierigkeit der Aufgaben
   - Hishscoreliste mit den Top 10 Spielern: 2. verbesserte Version über php-Schnittstelle
+  - Highscoreliste ist auch online zum Anfeuern erreichbar -> aktualisiert sich automatisch
   - Einstellungen
     - Einstellungsmöglichkeit der Spielzeit
     - Wahl einer Aufgabendatei
