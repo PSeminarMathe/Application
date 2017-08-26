@@ -58,5 +58,6 @@ Official Website: [Matheguru](http://matheguru.tk/)
   - [ ] Integration des Matheguru Launchers in Matheguru selbst
   - [ ] Entfernen dse sql raspberry zeugs (viell. alte version speichern in nem ordner)
   - [ ] Visuelle darstellung highscore szenen verbessern
+  - [ ] Check ob er bei .mg file im startordner diese ausführt
 
   ##### ==> Für eine komplette und aktuelle Liste der geplanten Arbeitsschritte siehe [To-do-Liste auf Trello](https://trello.com/b/rFxNzqG5)
