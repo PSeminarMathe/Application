@@ -42,10 +42,9 @@ Official Website: [Matheguru](http://matheguru.tk/)
   - Anleitung zum Spielen
   - Anzeige der von den Fünftklässlern bekannten Zeichen für Multiplikation und Division (anstatt * & /)
   - Anzeige von Statistiken nach Absolvieren einer Runde
-  - Bewertung der Leistung eines Spielers mit Punkten
   - Zeitbeschränkung beim Spielen
-  - Punktesystem zur Motivation der Schüler
-  - Hishscoreliste mit den Top 10 Spielern 
+  - Punktesystem zur Motivation der Schüler: je nach Schwierigkeit der Aufgaben
+  - Hishscoreliste mit den Top 10 Spielern: 2. verbesserte Version über php-Schnittstelle
   - Einstellungen
     - Einstellungsmöglichkeit der Spielzeit
     - Wahl einer Aufgabendatei
