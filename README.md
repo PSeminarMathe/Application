@@ -60,5 +60,6 @@ Official Website: [Matheguru](http://matheguru.tk/)
   - [ ] Visuelle darstellung highscore szenen verbessern
   - [ ] Check ob er bei .mg file im startordner diese ausführt
   - [ ] Launcher auf LocalDateTime umstellen
+  - [ ] Highscorescene Link zu /best
 
   ##### ==> Für eine komplette und aktuelle Liste der geplanten Arbeitsschritte siehe [To-do-Liste auf Trello](https://trello.com/b/rFxNzqG5)
