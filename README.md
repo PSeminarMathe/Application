@@ -55,11 +55,8 @@ Official Website: [Matheguru](http://matheguru.tk/)
   - Auto-Updates: Das Programm sucht (falls Internet vorhanden) nach Updates und aktualisiert sich selber -> Software immer auf neustem Stand, ohne sich darum kümmern zu müssen
 - #### TODO
   - [ ] Termgenerator
-  - [ ] Integration des Matheguru Launchers in Matheguru selbst
-  - [ ] Entfernen dse sql raspberry zeugs (viell. alte version speichern in nem ordner)
   - [ ] Visuelle darstellung highscore szenen verbessern
   - [ ] Check ob er bei .mg file im startordner diese ausführt
-  - [ ] Launcher auf LocalDateTime umstellen
   - [ ] Highscorescene Link zu /best
 
   ##### ==> Für eine komplette und aktuelle Liste der geplanten Arbeitsschritte siehe [To-do-Liste auf Trello](https://trello.com/b/rFxNzqG5)
