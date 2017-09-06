@@ -32,6 +32,7 @@ Official Website: [Matheguru](http://matheguru.tk/)
   - auch direkte Editierung der Aufgabendatei gut möglich, da der Aufgabenmanager ordnet die Aufgaben vor dem Speicher mithilfe eines Sortieralgorithmus des Laufzeitverhaltens O(n \* log n), so dass die Aufgabendatei übersichtlich ist
   - Zeitaufwand zur Programmierung: ca. 2 Stunden
 - [x] Eingabe von über 330 Aufgaben mit Lösungen und Schwierigkeitsgrad als Standardausstattung des Programms (beliebig nach Anforderungen erweiterbar)<!-- 3 Stunden -->
+- [x] Entwicklung eines Corporate Designs -> Einheitliche Schriftarten, Farben, Logos etc. auf Website, im Programm, auf Github, in Anleitungen
 - #### Features <!-- des aktuellen Programms: 40 Stunden -->
   - portabel für Windows, Linux und Mac OSX 
   - Entwurf der grafischen Oberfläche (GUI) <!-- animierter Hintergrund, verschiedenen Screens mit Management-->
