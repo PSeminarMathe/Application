@@ -20,6 +20,7 @@ Official Website: [Matheguru](http://matheguru.tk/)
   - Upload der Seite als auch des Programms auf matheguru.tk <!-- 0 Stunden -->
   - Änderung des Designs und Behebung kleinerer Fehler <!-- 0,5 Stunden -->
   - Hinzufügen der Website zu Google <!-- 0,45 Stunden -->
+  - Website vollkommen responsive machen
 - [x] Erstellung eines Protopyen <!-- 6 Stunden -->
   - Programmierung eines generischen Aufgabenerstellers
   - Funktionsweise der GUI im Aufgabenmodus
@@ -32,7 +33,10 @@ Official Website: [Matheguru](http://matheguru.tk/)
   - auch direkte Editierung der Aufgabendatei gut möglich, da der Aufgabenmanager ordnet die Aufgaben vor dem Speicher mithilfe eines Sortieralgorithmus des Laufzeitverhaltens O(n \* log n), so dass die Aufgabendatei übersichtlich ist
   - Zeitaufwand zur Programmierung: ca. 2 Stunden
 - [x] Eingabe von über 330 Aufgaben mit Lösungen und Schwierigkeitsgrad als Standardausstattung des Programms (beliebig nach Anforderungen erweiterbar)<!-- 3 Stunden -->
-- [x] Entwicklung eines Corporate Designs -> Einheitliche Schriftarten, Farben, Logos etc. auf Website, im Programm, auf Github, in Anleitungen
+- [x] Entwicklung eines Corporate Designs -> Einheitliche Schriftarten, Farben, Logos etc. auf Website, im Programm, auf Github, in 
+- [x] Erweiterung der Website um Anleitungen 
+- [x] Erweiterung der Website um eine Online Highscoredatenbank, von der mit PHP die besten 10 User per Livewebsite aufgerufen werden können
+Anleitungen
 - #### Features <!-- des aktuellen Programms: 40 Stunden -->
   - portabel für Windows, Linux und Mac OSX 
   - Entwurf der grafischen Oberfläche (GUI) <!-- animierter Hintergrund, verschiedenen Screens mit Management-->
