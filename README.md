@@ -36,6 +36,7 @@ Official Website: [Matheguru](http://matheguru.tk/)
 - [x] Entwicklung eines Corporate Designs -> Einheitliche Schriftarten, Farben, Logos etc. auf Website, im Programm, auf Github, in 
 - [x] Erweiterung der Website um Anleitungen 
 - [x] Erweiterung der Website um eine Online Highscoredatenbank, von der mit PHP die besten 10 User per Livewebsite aufgerufen werden können
+- [x] Erstellung einer fünfseitigen, kleinschrittigen Anleitung für Matheguru und den Aufgabenmanager und Hinzufügen zur Website + PDF <!-- 3 Stunden -->
 Anleitungen
 - #### Features <!-- des aktuellen Programms: 40 Stunden -->
   - portabel für Windows, Linux und Mac OSX 
