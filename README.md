@@ -60,7 +60,7 @@ Anleitungen
   - automatisches Laden der neusten Aufgaben über das Internet -> jedoch auch Offline möglich
   - Auto-Updates: Das Programm sucht (falls Internet vorhanden) nach Updates und aktualisiert sich selber -> Software immer auf neustem Stand, ohne sich darum kümmern zu müssen
 - #### TODO
-  - [ ] Termgenerator
+  - [x] Termgenerator
   - [ ] Visuelle darstellung highscore szenen verbessern
   - [ ] Check ob er bei .mg file im startordner diese ausführt
   - [ ] Highscorescene Link zu /best
