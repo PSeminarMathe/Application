@@ -59,10 +59,11 @@ Anleitungen
   - automatische Speicherung der Einstellungen
   - automatisches Laden der neusten Aufgaben über das Internet -> jedoch auch Offline möglich
   - Auto-Updates: Das Programm sucht (falls Internet vorhanden) nach Updates und aktualisiert sich selber -> Software immer auf neustem Stand, ohne sich darum kümmern zu müssen
+  - Zugriff auf Liveanzeige der Onlinehighscores vom Programm aus + Aussehen der Highscoreszenen an Website angeglichen
 - #### TODO
   - [x] Termgenerator
-  - [ ] Visuelle darstellung highscore szenen verbessern
+  - [x] Visuelle darstellung highscore szenen verbessern
   - [ ] Check ob er bei .mg file im startordner diese ausführt
-  - [ ] Highscorescene Link zu /best
+  - [x] Highscorescene Link zu /best
 
   ##### ==> Für eine komplette und aktuelle Liste der geplanten Arbeitsschritte siehe [To-do-Liste auf Trello](https://trello.com/b/rFxNzqG5)
