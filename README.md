@@ -58,6 +58,7 @@ Anleitungen
     - Möglichkeit, bei falscher Eingabe Lösung angezeigt zu bekommen
   - automatische Speicherung der Einstellungen
   - automatisches Laden der neusten Aufgaben über das Internet -> jedoch auch Offline möglich
+  - UNENDLICH viele Aufgaben: Termgenerator, der Aufgaben beliebiger Schwierigkeitsstufe erstellt (in Einstellungen aktivierbar)
   - Auto-Updates: Das Programm sucht (falls Internet vorhanden) nach Updates und aktualisiert sich selber -> Software immer auf neustem Stand, ohne sich darum kümmern zu müssen
   - Zugriff auf Liveanzeige der Onlinehighscores vom Programm aus + Aussehen der Highscoreszenen an Website angeglichen
 - #### TODO
@@ -65,5 +66,6 @@ Anleitungen
   - [x] Visuelle darstellung highscore szenen verbessern
   - [ ] Check ob er bei .mg file im startordner diese ausführt
   - [x] Highscorescene Link zu /best
+  - [x] Zeit bei Schülerversion nicht veränderbar
 
   ##### ==> Für eine komplette und aktuelle Liste der geplanten Arbeitsschritte siehe [To-do-Liste auf Trello](https://trello.com/b/rFxNzqG5)
