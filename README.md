@@ -2,7 +2,7 @@
 A desktop application created in order to assist fith-graders to learn the basics of multiplication.
 Mit momentan über 333 Aufgaben! Beliebig erweiterbar!
 
-Official Website: [Matheguru](http://matheguru.tk/)
+Official Website: [Matheguru](http://matheguru.ga/)
 
 ## Log
 - [x] Wahl der Entwicklungsumgebung
