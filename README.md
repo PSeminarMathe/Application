@@ -15,7 +15,7 @@ Official Website: [Matheguru](http://matheguru.tk/)
   - Upload verschiedener Releases
 - [x] Erstellung der Website <!-- 3 Stunden -->
   - Wahl des Webhosters -> [bplaced](http://www.bplaced.net/) (kostenloser Webspace) <!-- 0,5 Stunden -->
-  - Registrierung der Domain [matheguru.tk](http://matheguru.tk/) bei Freenom (kostenloser DNS Service) <!-- 0,5 Stunden -->
+  - Registrierung der Domain [matheguru.tk](http://matheguru.ga/) bei Freenom (kostenloser DNS Service) <!-- 0,5 Stunden -->
   - Eigenständige Erstellung der Website mithilfe von HTML und CSS (ohne jegliche Frameworks) <!-- 1 Stunden -->
   - Upload der Seite als auch des Programms auf matheguru.tk <!-- 0 Stunden -->
   - Änderung des Designs und Behebung kleinerer Fehler <!-- 0,5 Stunden -->
