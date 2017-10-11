@@ -1,6 +1,6 @@
 # Matheguru ![Matheguru](http://matheguru.tk/matheguru_logo.png) <!-- 1613 Zeilen Code!!! -->
 A desktop application created in order to assist fith-graders to learn the basics of multiplication.
-Mit momentan über 333 Aufgaben! Beliebig erweiterbar!
+Mit momentan 333 Aufgaben! Beliebig erweiterbar!
 
 Official Website: [Matheguru](http://matheguru.ga/)
 
@@ -61,6 +61,7 @@ Anleitungen
   - UNENDLICH viele Aufgaben: Termgenerator, der Aufgaben beliebiger Schwierigkeitsstufe erstellt (in Einstellungen aktivierbar)
   - Auto-Updates: Das Programm sucht (falls Internet vorhanden) nach Updates und aktualisiert sich selber -> Software immer auf neustem Stand, ohne sich darum kümmern zu müssen
   - Zugriff auf Liveanzeige der Onlinehighscores vom Programm aus + Aussehen der Highscoreszenen an Website angeglichen
+  - 333 von Hand ins Spiel eingefügte Aufgaben (Korrektheit der Lösungen mit eigenem Programm überprüft)
 - #### TODO
   - [x] Termgenerator
   - [x] Visuelle darstellung highscore szenen verbessern
