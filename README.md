@@ -1,4 +1,4 @@
-# Matheguru ![Matheguru](http://matheguru.tk/matheguru_logo.png) <!-- 1613 Zeilen Code!!! -->
+# Matheguru ![Matheguru](http://matheguru.ga/matheguru_logo.png) <!-- 1613 Zeilen Code!!! -->
 A desktop application created in order to assist fith-graders to learn the basics of multiplication.
 Mit momentan 333 Aufgaben! Beliebig erweiterbar!
 
@@ -63,6 +63,7 @@ Anleitungen
   - Zugriff auf Liveanzeige der Onlinehighscores vom Programm aus + Aussehen der Highscoreszenen an Website angeglichen
   - 333 von Hand ins Spiel eingefügte Aufgaben (Korrektheit der Lösungen mit eigenem Programm überprüft)
   - Verschiedene visuelle Themes / Hintergründe: Feste Farbe (auswählbar), Regenbogenanimation, Partikel, Animierter Farbeverlauf, "Chameleon" -> können über Einstellungen ausgewählt werden
+  - MatheguruIcon wird nun in der Programmleiste + der TitleBar des Programms angezeigt (anstatt des Java-Logos)
 - #### TODO
   - [x] Termgenerator
   - [x] Visuelle darstellung highscore szenen verbessern
