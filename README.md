@@ -62,6 +62,7 @@ Anleitungen
   - Auto-Updates: Das Programm sucht (falls Internet vorhanden) nach Updates und aktualisiert sich selber -> Software immer auf neustem Stand, ohne sich darum kümmern zu müssen
   - Zugriff auf Liveanzeige der Onlinehighscores vom Programm aus + Aussehen der Highscoreszenen an Website angeglichen
   - 333 von Hand ins Spiel eingefügte Aufgaben (Korrektheit der Lösungen mit eigenem Programm überprüft)
+  - Verschiedene visuelle Themes / Hintergründe: Feste Farbe (auswählbar), Regenbogenanimation, Partikel, Animierter Farbeverlauf, "Chameleon" -> können über Einstellungen ausgewählt werden
 - #### TODO
   - [x] Termgenerator
   - [x] Visuelle darstellung highscore szenen verbessern
