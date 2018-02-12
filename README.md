@@ -50,7 +50,7 @@ Anleitungen
   - Anzeige von Statistiken nach Absolvieren einer Runde
   - Zeitbeschränkung beim Spielen
   - Punktesystem zur Motivation der Schüler: je nach Schwierigkeit der Aufgaben
-  - Hishscoreliste mit den Top 10 Spielern: 2. verbesserte Version über php-Schnittstelle
+  - Hishscoreliste mit den Top 10 Spielern: 2. verbesserte Version über php-Schnittstelle + Möglichkeit, beliebig viele Spieler anzuzeigen
   - Highscoreliste ist auch online zum Anfeuern erreichbar -> aktualisiert sich automatisch
   - Einstellungen
     - Einstellungsmöglichkeit der Spielzeit
@@ -64,6 +64,11 @@ Anleitungen
   - 333 von Hand ins Spiel eingefügte Aufgaben (Korrektheit der Lösungen mit eigenem Programm überprüft)
   - Verschiedene visuelle Themes / Hintergründe: Feste Farbe (auswählbar), Regenbogenanimation, Partikel, Animierter Farbeverlauf, "Chameleon" -> können über Einstellungen ausgewählt werden
   - MatheguruIcon wird nun in der Programmleiste + der TitleBar des Programms angezeigt (anstatt des Java-Logos)
+  
+  - Großes Uploadupdate: 
+    - Möglichkeit, auf Website eigene Aufgabendateien hochzuladen (http://matheguru.ga/upload_form.php)
+    - Diese hochgeladenen Aufgaben werden in Matheguru angezeigt, sie können heruntergeladen werden und werden offline gepseichert
+    - Übersicht der offline gespeicherten Aufgaben (können geladen und gelöscht werden)
 - #### TODO
   - [x] Termgenerator
   - [x] Visuelle darstellung highscore szenen verbessern
