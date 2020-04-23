@@ -1,5 +1,5 @@
 # Matheguru ![Matheguru](http://matheguru.ga/matheguru_logo.png) <!-- 1613 Zeilen Code!!! -->
-A desktop application created in order to assist fith-graders to learn the basics of multiplication.
+A desktop application created in order to assist fith-graders to learn the basics of algebra.
 Mit momentan 333 Aufgaben! Beliebig erweiterbar!
 
 Official Website: [Matheguru](http://matheguru.ga/)
